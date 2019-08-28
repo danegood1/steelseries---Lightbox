@@ -1,1 +1,1 @@
-# steelseries---Lightbox
+# steelseries-lightbox
